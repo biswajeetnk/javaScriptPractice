@@ -1,5 +1,4 @@
-//BLOCK SCOPING
-//var, let, const
+//BLOCK SCOPING : var, let, const
 
 //var - applies at function level and block level
 var greet="hi"
