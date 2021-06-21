@@ -1,5 +1,5 @@
 //STRINGS : collection of characters
-
+const Person = require('./practiceJs9')
 let day = "Saturday "
 console.log(day.length)
 
@@ -52,5 +52,8 @@ while(val !== -1)
 console.log("count of 'day' is : "+count)
 
 console.log("****************************************")
+
+let p2 = new Person("Chris","Edwards")
+p2.fullName()
 
 
